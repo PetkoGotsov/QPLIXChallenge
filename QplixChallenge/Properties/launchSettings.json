@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "QplixChallenge": {
+      "commandName": "Project",
+      "commandLineArgs": "-console"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
